@@ -5,7 +5,7 @@ exports.config = {
     name: 'ytdl',
     author: 'Jmlabaco',
     category: 'tools',
-    description: 'An API to download YouTube videos using the provided URL.',
+    description: 'Download Youtube Video.',
     link: ['/ytdl?link=https://youtu.be/QNV2DmBxChQ?si=WVJ-wOiw4Q6FqzFY']
 };
 
