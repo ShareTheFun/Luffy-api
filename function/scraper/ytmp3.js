@@ -4,8 +4,8 @@ exports.config = {
     name: 'ytmp3',
     author: 'Jmlabaco',
     category: 'tools',
-    description: 'Download audio version of the video using url of it',
-    link: ['/ytcore?url=https://youtu.be/rtOvBOTyX00?si=TSrrSiGghPDjI5uz']
+    description: 'Fetches video information from YouTube',
+    link: ['/ytmp3?url=https://youtu.be/rtOvBOTyX00?si=TSrrSiGghPDjI5uz']
 };
 
 exports.initialize = async function ({ req, res }) {
